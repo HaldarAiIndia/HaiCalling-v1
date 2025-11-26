@@ -1,0 +1,17 @@
+{
+  "name": "HaiCalling",
+  "short_name": "HaiCalling",
+  "description": "Experience seamless, high-quality video calls and secure messaging with HaiCalling. Connect instantly with friends using our modern, dark-themed mobile web app. No installation required.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ff1a1a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
